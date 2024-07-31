@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IhvHotgirl
+- 👋 Hi, I’m Nemisys
 - 👀 I’m interested in C/C++/Java/Py and WebDev(Front and Backend)
 - 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on anything tbh
 - 📫 How to reach me @nemisys on Discord
-- 😄 Pronouns: This is nonsense
+- 😄 Pronouns: Attack/Helicopter
 - ⚡ Fun fact: Time flies by
 
 <!---
